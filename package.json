@@ -12,7 +12,7 @@
     "japanese",
     "translate"
   ],
-  "repository": "git@github.com:79yuuki/owm-code-jp.git"
+  "repository": "git@github.com:79yuuki/owm-code-jp.git",
   "author": "Yuki Shichiku",
   "license": "ISC"
 }
