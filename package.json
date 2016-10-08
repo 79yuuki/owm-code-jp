@@ -1,6 +1,6 @@
 {
   "name": "owm-code-jp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This module translate the OpenWeatherMap code in Japanese.",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
     "japanese",
     "translate"
   ],
+  "repository": "git@github.com:79yuuki/owm-code-jp.git"
   "author": "Yuki Shichiku",
   "license": "ISC"
 }
