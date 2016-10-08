@@ -79,6 +79,10 @@ var WEATHER_CONDITION_CODES = {
   962: 'ハリケーン(風力13)'
 };
 
+/*
+ * Get weather main and description in Japanese.
+ * @param code Number OpenWeatherMap code
+ */
 module.exports = (code) => {
   var weather = {};
   if (!code || code < 200) {
