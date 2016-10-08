@@ -2,7 +2,7 @@
 
 This module translate the OpenWeatherMap code in Japanese.
 
-[OpenWeatherMap のコード一覧](http://openweathermap.org/weather-conditions) の Code で返ってくる英語の情報を日本語で返すモジュールです。
+天気予報 API の [OpenWeatherMap のコード一覧](http://openweathermap.org/weather-conditions) の Code で返ってくる英語の情報を日本語で返すモジュールです。
 
 ## 使い方
 
